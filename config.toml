@@ -1,4 +1,3 @@
-baseURL = 'https://curtlh.github.io/new_site'
 languageCode = 'en-us'
 title = 'Curtis Hampton'
 theme = "ananke"
