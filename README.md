@@ -1,3 +1,3 @@
 # New Site
 
-http://curtishampton.com/new_site/
+https://curtishampton.com/new_site/
