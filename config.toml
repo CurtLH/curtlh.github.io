@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseURL = 'https://curtishampton.com/new_site/'
 title = "Curtis Hampton"
 theme = "creative-portfolio"
 languageCode = "en-us"
