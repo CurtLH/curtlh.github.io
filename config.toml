@@ -1,4 +1,36 @@
-baseURL = 'https://curtishampton.com/new_site/'
-languageCode = 'en-us'
-title = 'Curtis Hampton'
-theme = "ananke"
+baseurl = "https://example.org/"
+title = "Curtis Hampton"
+theme = "creative-portfolio"
+languageCode = "en-us"
+
+[params]
+  style = "blue"
+  description = "Describe your website"
+  copyright = "&copy;2021 Curtis Hampton"
+  sidebarAbout = [
+    "I am a builder. From software to furniture, I enjoy using my skills to solve problems and build interesting things.",
+    "Originally from Michigan, currently based in California."
+  ]
+  # Contact page
+  email = "CurtisLHampton@gmail.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  email         = "CurtisLHampton@gmail.com"
+  linkedin      = "https://www.linkedin.com/in/curtislhampton/"
+  github        = "https://github.com/CurtLH/"
+  youtube       = "https://www.youtube.com/channel/UCnECCA-LRMiwauttJ8IDILg"
+  stackoverflow = "https://stackoverflow.com/users/3420371/curtlh"
