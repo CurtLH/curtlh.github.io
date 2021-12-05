@@ -1,6 +1,6 @@
 baseURL = 'https://curtlh.github.io/'
 title = "Curtis Hampton"
-theme = "creative-portfolio"
+theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 
 [params]
