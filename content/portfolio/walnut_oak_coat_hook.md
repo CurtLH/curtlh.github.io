@@ -7,6 +7,8 @@ weight = 1
 draft = false
 +++
 
+*October 14th, 2021*
+
 This coat rack is made from walnut and quarter sawn white oak from Mayan Hardwood. The design is from Foureyes Furniture.
 
 ![Walnut and Oak Coat Hook][1]
