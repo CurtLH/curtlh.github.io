@@ -3,7 +3,7 @@ date = "2021-09-18"
 title = "Wood and Concrete Side Table"
 image = "img/portfolio/concrete_table.png"
 showonlyimage = true
-weight = 4
+weight = 1
 draft = false
 +++
 
