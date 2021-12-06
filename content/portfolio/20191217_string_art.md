@@ -4,7 +4,7 @@ title = "String Art"
 image = "img/portfolio/s_and_k_string_art.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *June 22nd, 2019*

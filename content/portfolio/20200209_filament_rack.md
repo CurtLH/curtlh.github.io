@@ -4,7 +4,7 @@ title = "Filament Rack"
 image = "img/portfolio/filament_rack.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *February 9th, 2020*

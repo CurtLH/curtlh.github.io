@@ -4,7 +4,7 @@ title = "Cedar Planter Boxes"
 image = "img/portfolio/planter_boxes.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *May 18th, 2019*

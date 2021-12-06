@@ -4,7 +4,7 @@ title = "Walnut Side Table"
 image = "img/portfolio/walnut_side_table.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *September 9th, 2021*

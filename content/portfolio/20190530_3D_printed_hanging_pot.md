@@ -4,7 +4,7 @@ title = "3D Printed Hanging Pot"
 image = "img/portfolio/3D_printed_hanging_pot.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *May 30th, 2019*

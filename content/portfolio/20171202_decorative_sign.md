@@ -4,7 +4,7 @@ title = "Decorative Sign"
 image = "img/portfolio/s_sign.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *December 2nd, 2017*

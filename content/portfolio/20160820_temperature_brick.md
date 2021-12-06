@@ -4,7 +4,7 @@ title = "Temperature Brick"
 image = "img/portfolio/temp_brick.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *August 20th, 2016*

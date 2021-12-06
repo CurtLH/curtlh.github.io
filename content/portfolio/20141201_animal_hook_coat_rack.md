@@ -4,7 +4,7 @@ title = "Animal Hook Coat Rack"
 image = "img/portfolio/animal_hook_coat_rack.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *December 1st, 2014*

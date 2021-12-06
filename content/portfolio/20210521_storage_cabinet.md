@@ -4,7 +4,7 @@ title = "Storage Cabinet"
 image = "img/portfolio/internet_cabinet.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *May 21st, 2021*

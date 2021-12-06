@@ -4,7 +4,7 @@ title = "3D Printed Names"
 image = "img/portfolio/3D_printed_names.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *December 17th, 2019*

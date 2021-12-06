@@ -4,7 +4,7 @@ title = "Bottle Opener"
 image = "img/portfolio/bottle_opener.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *October 28th, 2017*

@@ -4,7 +4,7 @@ title = "Pencil Boxes"
 image = "img/portfolio/pencil_boxes.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *December 17th, 2017*

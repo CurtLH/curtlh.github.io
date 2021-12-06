@@ -4,7 +4,7 @@ title = "Undersink Cabinet"
 image = "img/portfolio/undersink_cabinet.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *June 28th, 2015*

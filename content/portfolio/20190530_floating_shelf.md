@@ -4,7 +4,7 @@ title = "Floating Shelf"
 image = "img/portfolio/floating_shelf.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *May 30th, 2019*

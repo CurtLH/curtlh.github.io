@@ -4,7 +4,7 @@ title = "Map String Art"
 image = "img/portfolio/map_string_art.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *March 13th, 2019*

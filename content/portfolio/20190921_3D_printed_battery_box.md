@@ -4,7 +4,7 @@ title = "3D Printed GoPro Battery Box"
 image = "img/portfolio/3D_printed_battery_box.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *September 21st, 2019*

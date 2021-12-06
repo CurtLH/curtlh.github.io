@@ -4,7 +4,7 @@ title = "3D Printer Drawer Organizer"
 image = "img/portfolio/3D_printed_drawer_organizer.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *March 16th, 2019*

@@ -4,7 +4,7 @@ title = "Outdoor Bar with Concrete Countertop"
 image = "img/portfolio/redwood_concrete_bar.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *June 15th, 2021*

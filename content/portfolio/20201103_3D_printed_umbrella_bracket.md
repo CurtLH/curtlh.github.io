@@ -4,7 +4,7 @@ title = "3D Printed Umbrella Bracket"
 image = "img/portfolio/umbrella_bracket.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *November 3rd, 2020*

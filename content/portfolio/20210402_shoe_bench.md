@@ -4,7 +4,7 @@ title = "Shoe Bench"
 image = "img/portfolio/shoe_bench.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *April 2nd, 2021*

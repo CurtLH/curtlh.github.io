@@ -4,7 +4,7 @@ title = "Four Cube Storage Bench"
 image = "img/portfolio/four_cube_storage_bench.png"
 showonlyimage = true
 weight = 1
-draft = true
+draft = false
 +++
 
 *June 15th, 2021*
